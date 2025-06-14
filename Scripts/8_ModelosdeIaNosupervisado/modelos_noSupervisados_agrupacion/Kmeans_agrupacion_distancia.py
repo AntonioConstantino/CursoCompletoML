@@ -20,3 +20,4 @@ labels = kmeans.fit_predict(X)
 plt.scatter(X[:, 0], X[:, 1], c=labels, cmap="viridis", s=50)
 plt.title("Clustering con K-Means")
 plt.show()
+# rama de prueba

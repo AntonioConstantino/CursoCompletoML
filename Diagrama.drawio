@@ -1,0 +1,58 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/27.0.9 Chrome/134.0.6998.205 Electron/35.4.0 Safari/537.36" version="27.0.9">
+  <diagram name="Página-1" id="9_9RohxBQFwLKHzVKFe6">
+    <mxGraphModel dx="1042" dy="626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="C5ZI_fkeVRTLdhSNKJ9w-19" value="&lt;p&gt;&amp;nbsp; &amp;nbsp;SE BASAN EN :&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;strokeColor=default;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+          <mxGeometry x="560" y="200" width="170" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="C5ZI_fkeVRTLdhSNKJ9w-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="C5ZI_fkeVRTLdhSNKJ9w-1" target="C5ZI_fkeVRTLdhSNKJ9w-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C5ZI_fkeVRTLdhSNKJ9w-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="C5ZI_fkeVRTLdhSNKJ9w-1" target="C5ZI_fkeVRTLdhSNKJ9w-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C5ZI_fkeVRTLdhSNKJ9w-1" value="No supervisado" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="345" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C5ZI_fkeVRTLdhSNKJ9w-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="C5ZI_fkeVRTLdhSNKJ9w-2" target="C5ZI_fkeVRTLdhSNKJ9w-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C5ZI_fkeVRTLdhSNKJ9w-2" value="reduccion de dimencionaliades" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C5ZI_fkeVRTLdhSNKJ9w-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="C5ZI_fkeVRTLdhSNKJ9w-3" target="C5ZI_fkeVRTLdhSNKJ9w-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C5ZI_fkeVRTLdhSNKJ9w-3" value="Agrupar/cluster" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C5ZI_fkeVRTLdhSNKJ9w-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="C5ZI_fkeVRTLdhSNKJ9w-9" target="C5ZI_fkeVRTLdhSNKJ9w-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C5ZI_fkeVRTLdhSNKJ9w-9" value="Distancias&lt;br&gt;-cerca&lt;div&gt;-lejos&amp;nbsp;&lt;br&gt;&lt;br&gt;Metodos&lt;br&gt;Mahathan&lt;/div&gt;&lt;div&gt;Euclideana&amp;nbsp;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="425" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="C5ZI_fkeVRTLdhSNKJ9w-10" value="-Dendodrama -&amp;gt; cuantos cluster pedir&amp;nbsp;&lt;div&gt;-Kmeans&lt;/div&gt;&lt;div&gt;- dbascan&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Tecnica del codo}&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;strong style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Elbow Method&lt;/strong&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="420" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="C5ZI_fkeVRTLdhSNKJ9w-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="C5ZI_fkeVRTLdhSNKJ9w-15" target="C5ZI_fkeVRTLdhSNKJ9w-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C5ZI_fkeVRTLdhSNKJ9w-15" value="Basado en varianza&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C5ZI_fkeVRTLdhSNKJ9w-17" value="&lt;div&gt;Lineales:&lt;/div&gt;-LDA&lt;div&gt;-PCA&lt;/div&gt;&lt;div&gt;No lineales:&lt;/div&gt;&lt;div&gt;-ISOMAP&lt;/div&gt;&lt;div&gt;-&lt;span style=&quot;color: rgb(78, 201, 176); background-color: rgb(31, 31, 31); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; white-space: pre;&quot;&gt;TSNE&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="255" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="C5ZI_fkeVRTLdhSNKJ9w-20" value="&lt;p&gt;&amp;nbsp; PROPOCITO :&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;strokeColor=default;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+          <mxGeometry x="390" y="200" width="170" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="C5ZI_fkeVRTLdhSNKJ9w-21" value="&lt;p&gt;&amp;nbsp; METODOS :&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;strokeColor=default;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+          <mxGeometry x="730" y="200" width="240" height="370" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

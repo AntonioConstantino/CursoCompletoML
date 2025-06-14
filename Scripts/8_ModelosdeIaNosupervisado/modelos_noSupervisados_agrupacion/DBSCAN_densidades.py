@@ -4,7 +4,7 @@ Created on Thu Jun 12 21:33:53 2025
 
 @author: jacj2
 """
-
+#esto es un ejemplo de commit en github 
 # este algoritmo necesita densidades ( que los puntos esten juntos)
 import numpy as np
 import matplotlib.pyplot as plt

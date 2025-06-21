@@ -2,6 +2,11 @@ import numpy as np
 from tensorflow.keras.models import Sequential
 from tensorflow.keras.layers import Dense
 
+#Como se contruye 
+# perdida (lo que quiero hacer )
+##Clasificacion Acurracy ( presicion )
+##Regresiones "mean_squared_error" ,mse, mae, rmse
+##
 
 # Datos dummy (relación lineal simple)
 # Entrada (x) y salida (y) donde y = 2x + 1

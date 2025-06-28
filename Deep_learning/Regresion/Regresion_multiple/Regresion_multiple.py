@@ -11,7 +11,7 @@ y = 3.5 * X + np.random.randn(100) * 10
 model = keras.Sequential([
     layers.Dense(1, input_shape=(1,))
 ])
-
+4
 model.compile(optimizer='adam', loss='mean_squared_error')
 
 # Callback para registrar historial

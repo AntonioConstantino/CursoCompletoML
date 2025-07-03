@@ -14,7 +14,13 @@ train_data = fetch_20newsgroups(subset='train', categories=categories, remove=('
 test_data = fetch_20newsgroups(subset='test', categories=categories, remove=('headers', 'footers', 'quotes'))
 
 # 3. Crear pipeline: TF-IDF + Naive Bayes
-model = make_pipeline(TfidfVectorizer(), MultinomialNB()) # aprendamos a hacer pipelines 
+
+
+model = make_pipeline(TfidfVectorizer(), #Conviete palabras a numeros y matrices en funcion de la frecuencia de ocurencia 
+                      MultinomialNB()) # Metodo de Inteligencia artificia
+
+# pipelines hiperautomatizar (deploys subir a produccion )
+#DEVOPS Ci/CD ( agarrar el codigo viejo y poner el nuevo)
 
 # 4. Entrenar modelo
 model.fit(train_data.data, train_data.target)# Entrenamos 
